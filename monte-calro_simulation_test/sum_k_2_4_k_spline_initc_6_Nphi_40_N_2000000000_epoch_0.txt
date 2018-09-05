@@ -1,0 +1,1 @@
+#tau 	 sum_k_0_4 	 sum2_k_0_4 	 sum_k_2_4 	 sum2_k_2_4 	 sum_k_0_2 	 sum2_k_0_2 	 sum_k_2_2 	 sum2_k_2_2 
